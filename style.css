@@ -1,0 +1,47 @@
+#milos{
+    width: 50px;
+}
+nav{
+    background-color: rgb(110, 110, 238);
+}
+body{
+    background-image: url(black.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img1{
+    width: 100%;
+}
+.container{
+    background-color: lightgray;
+
+
+}
+h1{
+    text-align: center;
+}
+#ri{
+    width: 100%;
+    
+
+    
+}
+#w{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+#e{
+    text-align: center;
+}
+#x{
+    width: 500px;
+    
+}
+#bibi{
+    width: 75px;
+}
+#kor{
+    width: 100px;
+}
